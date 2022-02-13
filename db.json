@@ -1,0 +1,28 @@
+{
+  "devices": [
+    {
+      "type": "bulb",
+      "id": "3232@#efs",
+      "name": "Kitchen light",
+      "connectionState": "connected",
+      "isTurnedOn": true,
+      "brightness": 80,
+      "color": "#ff0000"
+    },
+    {
+      "type": "outlet",
+      "id": "3232@#efsde",
+      "name": "Kitchen outlet",
+      "connectionState": "disconnected",
+      "isTurnedOn": false,
+      "powerConsumption": 0
+    },
+    {
+      "type": "temperatureSensor",
+      "id": "3232@#efsdew",
+      "name": "Kitchen sensor",
+      "connectionState": "poorConnection",
+      "temperature": 22
+    }
+  ]
+}

@@ -8,6 +8,10 @@
   margin: 0;
 }
 
+img {
+  @apply text-transparent;
+}
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
